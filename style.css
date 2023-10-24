@@ -1,0 +1,333 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+
+    
+}
+
+.nav-bar{
+    width: 100%;
+    height: 102px;
+    background-color: #FE5000;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu1{
+    display: flex;
+    margin-top: 50px;
+}
+.menu1 li{
+    
+    list-style-type: none;
+}
+.menu{
+    width: 856px;
+    height: 82px;
+    margin: 10px;
+}
+.menu-item{
+    text-decoration: none;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 15px;
+    color: white;
+    
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.it-img-logo{
+    width: 65px;
+    height: 77px;
+    margin: 15px 15px 10px 15px;
+}
+.logo-img{
+    width: 147px;
+    height: 90px;
+    margin: 10px 39px 10px 39px;
+}
+.banner-img1{
+    width: 100%;
+    height: 457px;
+}
+.reciep-main{
+    width: 1349px;
+    height: 537px;
+}
+.reciep{
+    margin-top: 35px;
+}
+.reciep-img{
+    width: 250px;
+    height: 86px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.reciep-head{
+    margin-top: 25px;
+}
+.head1{
+    text-align: center;
+    font-family: "Brady Bunch Remastered", sans-serif;
+    font-size: 26px;
+    line-height: 26px;
+    color: #5F249F;
+}
+.reciep-head h2{
+    font-family: "Brady Bunch Remastered", sans-serif;;
+}
+.dish-home{
+    display: flex;
+    justify-content: center;
+}
+.dish-img1{
+    width: 360px;
+    height: 299px;
+   
+    
+}
+.img1{
+    width: 360px;
+    height: 299px;
+}
+.dish-img2{
+    width: 360px;
+    height: 299px;
+   
+}
+.img2{
+    width: 360px;
+    height: 299px;
+}
+.dish-img3{
+    width: 360px;
+    height: 299px;
+   
+}
+.img3{
+    width: 360px;
+    height: 299px;
+}
+.define{
+    display: flex;
+}
+.img-define1{
+    position: relative;
+    left: 150px;
+    margin: 20px;
+   
+}
+.img-define2{
+    position: relative;
+    left: 209px;
+    margin: 20px;
+    
+}
+.img-define3{
+    position: relative;
+    left: 268px;
+    margin: 20px;
+    
+}
+h2{
+    font-size: 26px;
+    line-height: 33px;
+    color: black;
+    cursor: pointer;
+}
+
+.red-banner-img{
+    width: 100%;
+    height: 738px;
+    /* background-image: url(image/RED.Banner-img.png); */
+}
+.red-img{
+    width: 100%;
+    height: 738px;
+}
+.social-media{
+    width: 1349px;
+    height: 327px;
+    background-image: url(image/line-curve.png);
+    border-image-repeat: round;
+    margin: 35px;
+}
+.social-head-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+   
+}
+.social-img{
+     width: 280px;
+    height: 100px;
+}
+.social-sub{
+    /* margin: auto; */
+}
+.sub-social{
+    font-family: "Brady Bunch Remastered";
+    text-align: center;
+    color: brown;
+    font-size: 26px;
+    line-height: 26px;
+}
+.find-social{
+     font-family: "Brady Bunch Remastered";
+    text-align: center;
+    color: brown;
+    font-size: 26px;
+    line-height: 26px;
+    margin-top: 100px;
+    font-weight: bolder;
+}
+.social-icon{
+    display: flex;
+    justify-content: center;
+}
+.social-img1{
+    margin: 20px 40px 20px 40px;
+
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    width: 100%;
+    height: 386px;
+    background-color: #E2211C;
+}
+.logo-footer{
+    width: 171px;
+    height: 286px;
+   
+}
+.noodle{
+    width: 265px;
+    height: 286px;
+   
+}
+.about{
+    width: 265px;
+    height: 286px;
+   
+}
+.pasta{
+    width: 265px;
+    height: 286px;
+    
+}
+.itc{
+    width: 171px;
+    height: 286px;
+    
+}
+.logo-img-1{
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 70%;
+    display: block;
+}
+.head-n1{
+    text-align: center;
+}
+.magic-masala{
+    margin: 15px;
+}
+.masala-magic{
+    margin-left: 46px;
+    text-decoration: none;
+    font-size: 17px;
+    line-height: 25px;
+    color: #fff;
+}
+.mood{
+    margin: 15px;
+}
+.mood-masala{
+     margin-left: 46px;
+    text-decoration: none;
+    font-size: 17px;
+    line-height: 25px;
+    color: #fff;
+}
+.power{
+       margin: 15px 0px 15px 39px;
+}
+.power-noodle{
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 17px;
+    line-height: 25px;
+    color: #fff;
+}
+.saucy-masala{
+    margin: 15px;
+}
+.saucy{
+    margin-left: 46px;
+    text-decoration: none;
+    font-size: 17px;
+    line-height: 25px;
+    color: #fff;
+}
+.quick-meal{
+   
+    margin: 15px 10px 15px 10px;
+}
+.meal1{
+    margin-left: 46px;
+    text-decoration: none;
+    font-size: 17px;
+    line-height: 25px;
+    color: #fff;
+}
+.veggie{
+    
+    margin: 15px 10px 15px 10px;
+}
+.Onion{
+    margin: 15px 0px 15px 8px;
+}
+.veggie1{
+     margin-left: 46px;
+    text-decoration: none;
+    font-size: 17px;
+    line-height: 25px;
+    color: #fff;
+}
+.about1{
+    text-align: center;
+}
+.faq{
+        margin: 15px 0px 15px 65px;
+}
+.company{
+        margin: 15px 0px 15px 30px;
+
+}
+.it-img-footer-logo{
+    width: 65px;
+    height: 77px;
+    margin: 15px 15px 10px 90px;
+}
+
+
+
+
+
+
+
+
+
